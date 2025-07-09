@@ -2,4 +2,4 @@ CATALOGUE_HOST: catalogue.backend-{{ env }}.84dev.store
 USER_HOST: user.backend-{{ env }}.84dev.store
 CART_HOST: cart.backend-{{ env }}.84dev.store
 SHIPPING_HOST: shipping.backend-{{ env }}.84dev.store
-PAYMENT_HOST: payment.backend-{{ env }}.84dev.storev
+PAYMENT_HOST: payment.backend-{{ env }}.84dev.store
