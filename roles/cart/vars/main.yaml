@@ -1,2 +1,2 @@
-CATALOGUE_HOST: catalogue.84dev.store
-REDIS_HOST: redis.84dev.store
+CATALOGUE_HOST: catalogue-backend{{ env }}.84dev.store
+REDIS_HOST: redis-{{ env }}.84dev.store

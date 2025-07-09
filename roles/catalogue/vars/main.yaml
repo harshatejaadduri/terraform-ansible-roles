@@ -1,1 +1,1 @@
-MONGODB_HOST: mongodb.84dev.store
+MONGODB_HOST: mongodb-{{ env }}.84dev.store
