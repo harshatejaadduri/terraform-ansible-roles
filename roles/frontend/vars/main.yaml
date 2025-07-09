@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.84dev.store
+USER_HOST: user.84dev.store
+CART_HOST: cart.84dev.store
+SHIPPING_HOST: shipping.84dev.store
+PAYMENT_HOST: payment.84dev.store
